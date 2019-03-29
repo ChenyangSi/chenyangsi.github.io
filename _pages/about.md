@@ -26,11 +26,11 @@ My research interests include computer vision and machine learning.
 News
 ======
 
-##●## One paper is accepted by CVPR 2019.
+● One paper is accepted by CVPR 2019.
 
-##●## One paper is accepted by ECCV 2018.
+● One paper is accepted by ECCV 2018.
 
-##●## One paper is accepted by CVPR 2018.
+● One paper is accepted by CVPR 2018.
 
 
 
