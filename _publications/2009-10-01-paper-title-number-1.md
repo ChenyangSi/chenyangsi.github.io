@@ -1,15 +1,14 @@
----
-title: "Paper Title Number 1"
-collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
----
-This paper is about the number 1. The number 2 is left for future work.
+● **An Attention Enhanced Graph Convolutional LSTM Network for Skeleton-Based Action Recognition**<br /> **Chenyang Si**, Wentao Chen, Wei Wang, Liang Wang, Tieniu Tan<br /> IEEE Conference on Computer Vision and Pattern Recognition **(CVPR), 2019**<br /> [pdf](https://arxiv.org/pdf/1902.09130.pdf)
+<br /> ![Image](src) 
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+● **Skeleton-Based Action Recognition with Spatial Reasoning and Temporal Stack Learning**<br /> **Chenyang Si**, Ya Jing, Wei Wang, Liang Wang, Tieniu Tan<br /> European Conference on Computer Vision **(ECCV), 2018**<br /> [pdf](http://openaccess.thecvf.com/content_ECCV_2018/papers/Chenyang_Si_Skeleton-Based_Action_Recognition_ECCV_2018_paper.pdf)
+<br /> ![Image](src) 
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+● **Pose-Based Two-Stream Relational Networks for Action Recognition in Videos**<br /> Wei Wang, Jinjin Zhang, **Chenyang Si**, Liang Wang<br /> **(arxiv), 2018**<br /> [pdf](https://arxiv.org/pdf/1805.08484.pdf)
+<br /> ![Image](src) 
+
+● **Multistage adversarial losses for pose-based human image synthesis**<br /> **Chenyang Si**, Wei Wang, Liang Wang, Tieniu Tan<br /> IEEE Conference on Computer Vision and Pattern Recognition **(CVPR), 2018**<br /> [pdf](http://openaccess.thecvf.com/content_cvpr_2018/papers/Si_Multistage_Adversarial_Losses_CVPR_2018_paper.pdf)
+<br /> ![Image](src) 
+
+● **Pose-Guided Joint Global and Attentive Local Matching Network for Text-Based Person Search**<br /> Ya Jing, **Chenyang Si**, Junbo Wang, Wei Wang, Liang Wang, Tieniu Tan<br /> **(arxiv), 2018**<br /> [pdf](https://arxiv.org/pdf/1809.08440.pdf)
+<br /> ![Image](src) 
