@@ -2,11 +2,6 @@
 title: "Paper Title Number 2"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 
-date: 
-venue: 
-paperurl: 
-citation: 
 ---
 
 ● **An Attention Enhanced Graph Convolutional LSTM Network for Skeleton-Based Action Recognition**<br /> **Chenyang Si**, Wentao Chen, Wei Wang, Liang Wang, Tieniu Tan<br /> IEEE Conference on Computer Vision and Pattern Recognition **(CVPR), 2019**<br /> [pdf](https://arxiv.org/pdf/1902.09130.pdf)
