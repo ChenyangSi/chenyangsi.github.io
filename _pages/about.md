@@ -22,8 +22,6 @@ chenyang.si@cripac.ia.ac.cn
 No.95, Zhongguancun East Road,<br /> Haidian District,<br /> Beijing, P.R.China<br /> 100190
 </address>
 
-Address: No.95, Zhongguancun East Road, 100190, Haidian District, Beijing, P.R.China
-
 
 Research Topics
 ======
