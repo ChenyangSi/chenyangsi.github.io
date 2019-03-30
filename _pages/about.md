@@ -12,11 +12,9 @@ redirect_from:
   
 # Contact
 
-   * **Email:**
+   * **Email:** <br /> chenyang.si@cripac.ia.ac.cn
 
-   chenyang.si@cripac.ia.ac.cn
-
-   * **Address:**
+   * **Address:** <br />
    <address>
    No.95, Zhongguancun East Road,<br /> Haidian District,<br /> Beijing, P.R.China<br /> 100190
    </address>
