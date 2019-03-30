@@ -44,7 +44,7 @@ redirect_from:
 <br /> ![Image](src) 
 
 * **Pose-Guided Joint Global and Attentive Local Matching Network for Text-Based Person Search**<br /> Ya Jing, **Chenyang Si**, Junbo Wang, Wei Wang, Liang Wang, Tieniu Tan<br /> **(arxiv), 2018**<br /> [[pdf](https://arxiv.org/pdf/1809.08440.pdf)]
-<br /> ![Image](/images/paper/GALM.png) 
+<br /> ![Image](/images/paper/GALM1.jpg) 
 
 
 
