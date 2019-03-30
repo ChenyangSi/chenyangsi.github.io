@@ -12,32 +12,30 @@ redirect_from:
   
 # Contact
 
-**Email:**
+   **Email:**
 
-chenyang.si@cripac.ia.ac.cn
+   chenyang.si@cripac.ia.ac.cn
 
-**Address:**
-<address>
-No.95, Zhongguancun East Road,<br /> Haidian District,<br /> Beijing, P.R.China<br /> 100190
-</address>
+   **Address:**
+   <address>
+   No.95, Zhongguancun East Road,<br /> Haidian District,<br /> Beijing, P.R.China<br /> 100190
+   </address>
 
 
 
 # News
-=====
 
-● One paper is accepted by CVPR 2019.
+   ● One paper is accepted by CVPR 2019.
 
-● One paper is accepted by ECCV 2018.
+   ● One paper is accepted by ECCV 2018.
 
-● One paper is accepted by CVPR 2018.
+   ● One paper is accepted by CVPR 2018.
 
 
 
 # Publications
-======
 
-● **An Attention Enhanced Graph Convolutional LSTM Network for Skeleton-Based Action Recognition**<br /> **Chenyang Si**, Wentao Chen, Wei Wang, Liang Wang, Tieniu Tan<br /> IEEE Conference on Computer Vision and Pattern Recognition **(CVPR), 2019**<br /> [[pdf](https://arxiv.org/pdf/1902.09130.pdf)]
+● **An Attention Enhanced Graph Convolutional LSTM Network for Skeleton-Based Action Recognition**<br /> **Chenyang Si**, Wentao Chen,  Wei Wang, Liang Wang, Tieniu Tan<br /> IEEE Conference on Computer Vision and Pattern Recognition **(CVPR), 2019**<br /> [[pdf](https://arxiv.org/pdf/1902.09130.pdf)]
 <br /> ![Image](src) 
 
 ● **Skeleton-Based Action Recognition with Spatial Reasoning and Temporal Stack Learning**<br /> **Chenyang Si**, Ya Jing, Wei Wang, Liang Wang, Tieniu Tan<br /> European Conference on Computer Vision **(ECCV), 2018**<br /> [[pdf](http://openaccess.thecvf.com/content_ECCV_2018/papers/Chenyang_Si_Skeleton-Based_Action_Recognition_ECCV_2018_paper.pdf)]
@@ -55,6 +53,5 @@ No.95, Zhongguancun East Road,<br /> Haidian District,<br /> Beijing, P.R.China<
 
 
 # Teaching Experience
-======
 
-Teaching Assistant<br /> **Deep Learning**<br /> Mar. 2019-Jun. 2019<br /> University of Chinese Academy of Sciences
+   Teaching Assistant<br /> **Deep Learning**<br /> Mar. 2019-Jun. 2019<br /> University of Chinese Academy of Sciences
