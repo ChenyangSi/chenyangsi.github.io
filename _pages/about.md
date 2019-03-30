@@ -32,7 +32,7 @@ redirect_from:
 # Publications
 
 * **An Attention Enhanced Graph Convolutional LSTM Network for Skeleton-Based Action Recognition**<br /> **Chenyang Si**, Wentao Chen,  Wei Wang, Liang Wang, Tieniu Tan<br /> IEEE Conference on Computer Vision and Pattern Recognition **(CVPR), 2019**<br /> [[pdf](https://arxiv.org/pdf/1902.09130.pdf)]
-<br /> ![Image](src) 
+<br /> ![Image](/images/paper/agc-lstm.png) 
 
 * **Skeleton-Based Action Recognition with Spatial Reasoning and Temporal Stack Learning**<br /> **Chenyang Si**, Ya Jing, Wei Wang, Liang Wang, Tieniu Tan<br /> European Conference on Computer Vision **(ECCV), 2018**<br /> [[pdf](http://openaccess.thecvf.com/content_ECCV_2018/papers/Chenyang_Si_Skeleton-Based_Action_Recognition_ECCV_2018_paper.pdf)]
 <br /> ![Image](src) 
