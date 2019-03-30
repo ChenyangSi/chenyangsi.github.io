@@ -15,7 +15,7 @@ Contact
 
 **Email:**
 
-<br /> chenyang.si@cripac.ia.ac.cn
+chenyang.si@cripac.ia.ac.cn
 
 **Address:**
 <address>
