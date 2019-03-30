@@ -8,10 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-  I am a third-year Ph.D student at [CASIA](http://www.ia.cas.cn/), supervised by Prof. [Tieniu Tan](http://cripac.ia.ac.cn/CN/column/item83.shtml), Prof. [Liang Wang](http://sourcedb.ia.cas.cn/cn/iaexpert/201010/t20101013_2986122.html) and Prof. [Wei Wang](http://cripac.ia.ac.cn/en/EN/column/item118.shtml). Before that, I received my bachelor's degree from Zhengzhou University.
+  I am a third-year Ph.D student at [CASIA](http://www.ia.cas.cn/), supervised by Prof. [Tieniu Tan](http://cripac.ia.ac.cn/CN/column/item83.shtml), Prof. [Liang Wang](http://sourcedb.ia.cas.cn/cn/iaexpert/201010/t20101013_2986122.html) and Prof. [Wei Wang](http://cripac.ia.ac.cn/en/EN/column/item118.shtml). Before that, I received my bachelor's degree from Zhengzhou University. My research interests include computer vision and machine learning.
   
-Contact
-======
+# Contact
 
 **Email:**
 
@@ -23,13 +22,9 @@ No.95, Zhongguancun East Road,<br /> Haidian District,<br /> Beijing, P.R.China<
 </address>
 
 
-Research Topics
-======
 
-My research interests include computer vision and machine learning. 
-
-News
-======
+# News
+=====
 
 ● One paper is accepted by CVPR 2019.
 
@@ -37,7 +32,9 @@ News
 
 ● One paper is accepted by CVPR 2018.
 
-Publications
+
+
+# Publications
 ======
 
 ● **An Attention Enhanced Graph Convolutional LSTM Network for Skeleton-Based Action Recognition**<br /> **Chenyang Si**, Wentao Chen, Wei Wang, Liang Wang, Tieniu Tan<br /> IEEE Conference on Computer Vision and Pattern Recognition **(CVPR), 2019**<br /> [[pdf](https://arxiv.org/pdf/1902.09130.pdf)]
@@ -56,7 +53,8 @@ Publications
 <br /> ![Image](src) 
 
 
-Teaching Experience
+
+# Teaching Experience
 ======
 
 Teaching Assistant<br /> **Deep Learning**<br /> Mar. 2019-Jun. 2019<br /> University of Chinese Academy of Sciences
