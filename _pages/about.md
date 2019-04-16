@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-  I am a third-year Ph.D student at [CASIA](http://english.ia.cas.cn/), supervised by Prof. [Tieniu Tan](http://cripac.ia.ac.cn/en/EN/column/item80.shtml), Prof. [Liang Wang](http://cripac.ia.ac.cn/en/EN/column/item125.shtml) and Prof. [Wei Wang](http://cripac.ia.ac.cn/en/EN/column/item118.shtml). Before that, I received my bachelor's degree from Zhengzhou University. My research interests include computer vision and machine learning.
+  I am a third-year Ph.D student at [CASIA](http://english.ia.cas.cn/), supervised by Prof. [Tieniu Tan](http://cripac.ia.ac.cn/en/EN/column/item80.shtml), Prof. [Liang Wang](http://cripac.ia.ac.cn/en/EN/column/item125.shtml) and associate Prof. [Wei Wang](http://cripac.ia.ac.cn/en/EN/column/item118.shtml). Before that, I received my bachelor's degree from Zhengzhou University. My research interests include computer vision and machine learning.
   
 # Contact
 
