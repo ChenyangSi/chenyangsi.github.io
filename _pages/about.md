@@ -37,6 +37,8 @@ redirect_from:
 
 * **Unsupervised Motion Representation Learning from Skeleton Sequence via Neighbor Reconstruction**<br /> **Chenyang Si**, Wei Wang, Liang Wang, Tieniu Tan, Jiashi Feng<br /> 
 
+* **Skeleton-Based Action Recognition with Hierarchical Spatial Reasoning and Temporal Stack Learning Network**<br /> **Chenyang Si**, Ya Jing, Wei Wang, Liang Wang, Tieniu Tan<br /> 
+
 
 * **Pose-Guided Multi-Granularity Attention Network for Text-Based Person Search**<br /> Ya Jing, **Chenyang Si**, Junbo Wang, Wei Wang, Liang Wang, Tieniu Tan<br /> **(AAAI), oral, 2020**<br /> [[pdf]]
 <br /> ![Image](/images/paper/GALM1.jpg) 
