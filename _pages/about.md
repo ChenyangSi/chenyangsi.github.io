@@ -39,8 +39,6 @@ redirect_from:
 
 * **Skeleton-Based Action Recognition with Hierarchical Spatial Reasoning and Temporal Stack Learning Network**<br /> **Chenyang Si**, Ya Jing, Wei Wang, Liang Wang, Tieniu Tan<br />
 
-  <img src="https://github.com/ChenyangSi/chenyangsi.github.io/blob/master/images/paper/PR2020.png" width="400" height="150">
-
 
 * **Pose-Guided Multi-Granularity Attention Network for Text-Based Person Search**<br /> Ya Jing, **Chenyang Si**, Junbo Wang, Wei Wang, Liang Wang, Tieniu Tan<br /> **(AAAI), oral, 2020**<br /> [[pdf]]
 <br /> ![Image](/images/paper/GALM1.jpg) 
