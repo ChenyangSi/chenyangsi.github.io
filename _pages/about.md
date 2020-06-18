@@ -22,7 +22,8 @@ redirect_from:
 
 
 # News
-    
+   * One paper is accepted by Pattern Recognition. 
+   
    * One paper is accepted by AAAI 2020.
     
    * One paper is accepted by CVPR 2019.
@@ -37,7 +38,7 @@ redirect_from:
 
 * **Unsupervised Motion Representation Learning from Skeleton Sequence via Neighbor Reconstruction**<br /> **Chenyang Si**, Wei Wang, Liang Wang, Tieniu Tan, Jiashi Feng<br /> 
 
-* **Skeleton-Based Action Recognition with Hierarchical Spatial Reasoning and Temporal Stack Learning Network**<br /> **Chenyang Si**, Ya Jing, Wei Wang, Liang Wang, Tieniu Tan<br />
+* **Skeleton-Based Action Recognition with Hierarchical Spatial Reasoning and Temporal Stack Learning Network**<br /> **Chenyang Si**, Ya Jing, Wei Wang, Liang Wang, Tieniu Tan<br /> **(Pattern Recognition), 2020**<br />
 
 
 * **Pose-Guided Multi-Granularity Attention Network for Text-Based Person Search**<br /> Ya Jing, **Chenyang Si**, Junbo Wang, Wei Wang, Liang Wang, Tieniu Tan<br /> **(AAAI), oral, 2020**<br /> [[pdf]]
