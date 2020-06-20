@@ -22,7 +22,7 @@ redirect_from:
 
 
 # News
-   * One paper is accepted by Pattern Recognition. 
+   * One paper is accepted by Pattern Recognition Journal. 
    
    * One paper is accepted by AAAI 2020.
     
