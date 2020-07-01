@@ -36,7 +36,7 @@ redirect_from:
 
 # Publications
 
-* **Adversarial Self-Supervised Learning for Semi-Supervised 3D Action Recognition**<br /> **Chenyang Si**, Xuecheng Nie, Wei Wang, Liang Wang, Tieniu Tan, Jiashi Feng<br /> 
+* **Adversarial Self-Supervised Learning for Semi-Supervised 3D Action Recognition**<br /> **Chenyang Si**, Xuecheng Nie, Wei Wang, Liang Wang, Tieniu Tan, Jiashi Feng<br /> Submitted to ECCV, 2020
 
 * **Unsupervised Motion Representation Learning from Skeleton Sequence via Neighbor Reconstruction**<br /> **Chenyang Si**, Wei Wang, Liang Wang, Tieniu Tan, Jiashi Feng<br /> 
 
