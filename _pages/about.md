@@ -22,6 +22,8 @@ redirect_from:
 
 
 # News
+   * One paper is accepted by ECCV 2020.
+   
    * One paper is accepted by Pattern Recognition Journal. 
    
    * One paper is accepted by AAAI 2020.
@@ -36,7 +38,7 @@ redirect_from:
 
 # Publications
 
-* **Adversarial Self-Supervised Learning for Semi-Supervised 3D Action Recognition**<br /> **Chenyang Si**, Xuecheng Nie, Wei Wang, Liang Wang, Tieniu Tan, Jiashi Feng<br /> 2020
+* **Adversarial Self-Supervised Learning for Semi-Supervised 3D Action Recognition**<br /> **Chenyang Si**, Xuecheng Nie, Wei Wang, Liang Wang, Tieniu Tan, Jiashi Feng<br /> **(ECCV), 2020**<br />
 
 * **Unsupervised Motion Representation Learning from Skeleton Sequence via Neighbor Reconstruction**<br /> **Chenyang Si**, Wei Wang, Liang Wang, Tieniu Tan, Jiashi Feng<br /> 
 
