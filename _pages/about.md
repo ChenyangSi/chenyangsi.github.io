@@ -22,6 +22,8 @@ redirect_from:
 
 
 # News
+   * One paper is accepted by IJCAI 2021.
+   
    * One paper is accepted by ECCV 2020.
    
    * One paper is accepted by Pattern Recognition Journal. 
@@ -37,6 +39,8 @@ redirect_from:
 
 
 # Publications
+
+* **Few-Shot Learning with Part Discovery and Augmentation from Unlabeled Images**<br /> Wentao Chen, **Chenyang Si**, Wei Wang, Liang Wang, Zilei Wang, Tieniu Tan<br /> **(IJCAI), 2021**<br /> [[pdf]] 
 
 * **Adversarial Self-Supervised Learning for Semi-Supervised 3D Action Recognition**<br /> **Chenyang Si**, Xuecheng Nie, Wei Wang, Liang Wang, Tieniu Tan, Jiashi Feng<br /> **(ECCV), 2020**<br /> [[pdf](https://arxiv.org/pdf/2007.05934.pdf)] [[video](https://www.youtube.com/watch?v=2YXIYf5yRe0)]
 
