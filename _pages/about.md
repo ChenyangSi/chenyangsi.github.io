@@ -8,15 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-  I am a final year Ph.D candidate at [CASIA](http://english.ia.cas.cn/), supervised by Prof. [Tieniu Tan](http://cripac.ia.ac.cn/en/EN/column/item80.shtml), Prof. [Liang Wang](http://cripac.ia.ac.cn/en/EN/column/item125.shtml) and associate Prof. [Wei Wang](http://cripac.ia.ac.cn/en/EN/column/item118.shtml). Before that, I received my bachelor's degree from Zhengzhou University. My research interests include computer vision and machine learning.
+Currently, I am a Research Scientist in Sea AI Lab of Sea group. Before that, I completed my Ph.D. degree in 2021 at [CASIA](http://english.ia.cas.cn/), supervised by Prof. [Tieniu Tan](http://cripac.ia.ac.cn/en/EN/column/item80.shtml), co-supervised by Prof. [Liang Wang](http://cripac.ia.ac.cn/en/EN/column/item125.shtml) and Prof. [Wei Wang](http://cripac.ia.ac.cn/en/EN/column/item118.shtml). I'm a visting student from Sep, 2019 to Sep, 2020 in [Learning and Vision Lab](http://www.lv-nus.org/) at [National University of Singapore](http://www.nus.edu.sg/), working with  Prof. [Jiashi FENG](https://sites.google.com/site/jshfeng/home?authuser=0).
+<!-- Before that, I received my bachelor's degree from Zhengzhou University.  -->
+My research interests include computer vision and machine learning.
   
-  I'm a visting student from Sep, 2019 to Sep, 2020 in [Learning and Vision Lab](http://www.lv-nus.org/) at [National University of Singapore](http://www.nus.edu.sg/), working with assistant professor [Jiashi FENG](https://sites.google.com/site/jshfeng/home?authuser=0).
+  
   
 # Contact
 
-   * **Email:** <br /> chenyang.si@cripac.ia.ac.cn
+   * **Email:** <br /> sicy@sea.com, chenyang.si@cripac.ia.ac.cn
 
-   * **Address:** <br /> <cite>No.95, Zhongguancun East Road,<br /> Haidian District,<br /> Beijing, P.R.China<br /> 100190</cite>
+<!--    * **Address:** <br /> <cite>No.95, Zhongguancun East Road,<br /> Haidian District,<br /> Beijing, P.R.China<br /> 100190</cite> -->
    
 
 
