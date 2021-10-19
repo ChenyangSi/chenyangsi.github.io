@@ -16,7 +16,7 @@ My research interests include computer vision and machine learning.
   
 # Contact
 
-   * **Email:** <br /> sicy@sea.com, chenyang.si@cripac.ia.ac.cn
+   * **Email:** <br /> sicy@sea.com, ~~chenyang.si@cripac.ia.ac.cn~~
 
 <!--    * **Address:** <br /> <cite>No.95, Zhongguancun East Road,<br /> Haidian District,<br /> Beijing, P.R.China<br /> 100190</cite> -->
    
