@@ -45,7 +45,7 @@ My research interests include computer vision and machine learning.
 # Publications
 
 
-* **Generalizable Person Re-Identification via Self-Supervised Batch Norm Test-Time Adaption**<br /> Ke Han, **Chenyang Si**, Yan Huang, Liang Wang, Zilei Wang, Tieniu Tan<br /> **(AAAI), 2022**<br /> [[pdf]] 
+* **Generalizable Person Re-Identification via Self-Supervised Batch Norm Test-Time Adaption**<br /> Ke Han, **Chenyang Si**, Yan Huang, Liang Wang, Tieniu Tan<br /> **(AAAI), 2022**<br /> [[pdf]] 
 
 * **Few-Shot Learning with Part Discovery and Augmentation from Unlabeled Images**<br /> Wentao Chen, **Chenyang Si**, Wei Wang, Liang Wang, Zilei Wang, Tieniu Tan<br /> **(IJCAI), 2021**<br /> [[pdf]] 
 
