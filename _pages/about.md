@@ -25,7 +25,7 @@ My research interests include computer vision and machine learning.
 
 # News
    * One paper is accepted by CVPR 2022.
-   * 
+   
    * One paper is accepted by AAAI 2022.
    
    * One paper is accepted by IJCAI 2021.
