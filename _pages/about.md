@@ -24,6 +24,8 @@ My research interests include computer vision and machine learning.
 
 
 # News
+   * One paper is accepted by CVPR 2022.
+   * 
    * One paper is accepted by AAAI 2022.
    
    * One paper is accepted by IJCAI 2021.
@@ -45,7 +47,9 @@ My research interests include computer vision and machine learning.
 # Publications
 
 
-* **Generalizable Person Re-Identification via Self-Supervised Batch Norm Test-Time Adaption**<br /> Ke Han, **Chenyang Si**, Yan Huang, Liang Wang, Tieniu Tan<br /> **(AAAI), 2022**<br /> [[pdf]] 
+* **Metaformer is actually what you need for vision**<br /> Weihao Yu, Mi Luo, Pan Zhou, **Chenyang Si**, Yichen Zhou, Xinchao Wang, Jiashi Feng, Shuicheng Yan<br /> **(CVPR), 2022**<br /> [[pdf](https://arxiv.org/pdf/2111.11418.pdf)] 
+
+* **Generalizable Person Re-Identification via Self-Supervised Batch Norm Test-Time Adaption**<br /> Ke Han, **Chenyang Si**, Yan Huang, Liang Wang, Tieniu Tan<br /> **(AAAI), 2022**<br /> [[pdf](https://arxiv.org/pdf/2105.11874.pdf)] 
 
 * **Few-Shot Learning with Part Discovery and Augmentation from Unlabeled Images**<br /> Wentao Chen, **Chenyang Si**, Wei Wang, Liang Wang, Zilei Wang, Tieniu Tan<br /> **(IJCAI), 2021**<br /> [[pdf]] 
 
