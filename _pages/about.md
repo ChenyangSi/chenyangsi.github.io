@@ -24,11 +24,13 @@ My research interests include computer vision and machine learning.
 
 
 # News
+   * One paper is accepted by TIP.
+   
    * One paper is accepted by CVPR 2022.
    
    * One paper is accepted by AAAI 2022.
    
-   * One paper is accepted by IJCAI 2021.
+<!--    * One paper is accepted by IJCAI 2021.
    
    * One paper is accepted by ECCV 2020.
    
@@ -40,7 +42,7 @@ My research interests include computer vision and machine learning.
 
    * One paper is accepted by ECCV 2018.
 
-   * One paper is accepted by CVPR 2018.
+   * One paper is accepted by CVPR 2018. -->
 
 
 
