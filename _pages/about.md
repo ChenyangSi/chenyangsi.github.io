@@ -8,12 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-Currently, I am a Research Scientist in Sea AI Lab of Sea group. Before that, I completed my Ph.D. degree in 2021 at [CASIA](http://english.ia.cas.cn/), supervised by Prof. [Tieniu Tan](http://cripac.ia.ac.cn/en/EN/column/item80.shtml), co-supervised by Prof. [Liang Wang](http://cripac.ia.ac.cn/en/EN/column/item125.shtml) and Prof. [Wei Wang](http://cripac.ia.ac.cn/en/EN/column/item118.shtml). I'm a visting student from Sep, 2019 to Sep, 2020 in [Learning and Vision Lab](http://www.lv-nus.org/) at [National University of Singapore](http://www.nus.edu.sg/), working with  Prof. [Jiashi FENG](https://sites.google.com/site/jshfeng/home?authuser=0).
+Currently, I am a Research Scientist in Sea AI Lab of Sea group. 
+
+<!-- Before that,  -->
+I completed my Ph.D. degree in 2021 at [CASIA](http://english.ia.cas.cn/), supervised by Prof. [Tieniu Tan](http://cripac.ia.ac.cn/en/EN/column/item80.shtml), co-supervised by Prof. [Liang Wang](http://cripac.ia.ac.cn/en/EN/column/item125.shtml) and Prof. [Wei Wang](http://cripac.ia.ac.cn/en/EN/column/item118.shtml). I'm a visting student from Sep, 2019 to Sep, 2020 in [Learning and Vision Lab](http://www.lv-nus.org/) at [National University of Singapore](http://www.nus.edu.sg/), working with  Prof. [Jiashi FENG](https://sites.google.com/site/jshfeng/home?authuser=0).
 <!-- Before that, I received my bachelor's degree from Zhengzhou University.  -->
-My research interests include computer vision and machine learning.
+<!-- My research interests include computer vision and machine learning. -->
+
+My research lies at the intersection of deep learning and computer vision. I have focused on vision-based human perception that aims to design algorithms to understand and analyze human pose and action. I am also dedicated to network architecture and visual learning with limited labels, including few-shot learning, self-supervised learning and semi-supervised learning. 
+
+**Remote cooperations are welcome (ChenYang.Si.Mail@gmail.com).**
+
   
-  
-  
+
 # Contact
 
    * **Email:** <br /> ChenYang.Si.Mail@gmail.com, sicy@sea.com, ~~chenyang.si@cripac.ia.ac.cn~~
@@ -82,8 +89,16 @@ My research interests include computer vision and machine learning.
 <!-- <br /> ![Image](/images/paper/MAL1.png)  -->
 
 
+<!-- # Professional Service
 
+* Conference reviewer: ICCV, CVPR, ECCV, AAAI, 
+
+
+ -->
 
 # Teaching Experience
 
 * Teaching Assistant<br /> **Deep Learning**<br /> Mar. 2019-Jun. 2019<br /> University of Chinese Academy of Sciences
+
+
+
