@@ -31,6 +31,8 @@ My research lies at the intersection of deep learning and computer vision. I hav
 
 
 # News
+   * One paper is accepted by NeurIPS 2022.
+   
    * One paper is accepted by TIP.
    
    * One paper is accepted by CVPR 2022.
@@ -55,7 +57,7 @@ My research lies at the intersection of deep learning and computer vision. I hav
 
 # Publications
 
-* **Inception Transformer**<br /> **Chenyang Si**, Weihao Yu, Pan Zhou, Yichen Zhou, Xinchao Wang, Shuicheng Yan<br /> **(submitted), 2022**<br /> [[pdf](https://arxiv.org/pdf/2205.12956.pdf)] 
+* **Inception Transformer**<br /> **Chenyang Si**, Weihao Yu, Pan Zhou, Yichen Zhou, Xinchao Wang, Shuicheng Yan<br /> **(NeurIPS 2022), 2022**<br /> [[pdf](https://arxiv.org/pdf/2205.12956.pdf)] 
 
 * **Contrast-reconstruction Representation Learning for Self-supervised Skeleton-based Action Recognition**<br /> Peng Wang, Jun Wen, **Chenyang Si**, Yuntao Qian, Liang Wang<br /> **(TIP), 2022**<br /> [[pdf](https://arxiv.org/pdf/2111.11051.pdf)] 
 
