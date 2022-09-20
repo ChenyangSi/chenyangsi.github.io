@@ -30,7 +30,7 @@ My research lies at the intersection of deep learning and computer vision. I hav
 
 
 
-# News
+# News@2022
    * One paper is accepted by NeurIPS 2022.
    
    * One paper is accepted by TIP.
