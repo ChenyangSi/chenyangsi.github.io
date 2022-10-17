@@ -59,7 +59,11 @@ My research lies at the intersection of deep learning and computer vision. I hav
 
 * **Federated Zero-Shot Learning with Mid-Level Semantic Knowledge Transfer**<br /> Shitong Sun, **Chenyang Si**, Shaogang Gong, Guile Wu<br /> **Tech report, 2022**<br /> [[pdf](https://arxiv.org/pdf/2208.13465.pdf)] 
 
-* **Inception Transformer**<br /> **Chenyang Si**, Weihao Yu, Pan Zhou, Yichen Zhou, Xinchao Wang, Shuicheng Yan<br /> **(NeurIPS 2022), 2022**<br /> [[pdf](https://arxiv.org/pdf/2205.12956.pdf)] 
+* **Mugs: A Multi-Granular Self-Supervised Learning Framework**<br /> Pan Zhou, Yichen Zhou, **Chenyang Si**, Weihao Yu, Teck Khim Ng, Shuicheng Yan<br /> **NeurIPS Workshop, 2022**<br /> [[pdf]] 
+
+* **Transformed Autoencoder: Pre-training with Mask-Free Encoder and Transformed Decoder**<br /> Yichen Zhou, Pan Zhou, **Chenyang Si**, Weihao Yu, Teck Khim Ng, Shuicheng YAN<br /> **NeurIPS Workshop, 2022**<br /> [[pdf]] 
+
+* **Inception Transformer**<br /> **Chenyang Si**, Weihao Yu, Pan Zhou, Yichen Zhou, Xinchao Wang, Shuicheng Yan<br /> **(NeurIPS), 2022**<br /> [[pdf](https://arxiv.org/pdf/2205.12956.pdf)] 
 
 * **Contrast-reconstruction Representation Learning for Self-supervised Skeleton-based Action Recognition**<br /> Peng Wang, Jun Wen, **Chenyang Si**, Yuntao Qian, Liang Wang<br /> **(TIP), 2022**<br /> [[pdf](https://arxiv.org/pdf/2111.11051.pdf)] 
 
