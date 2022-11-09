@@ -63,7 +63,7 @@ My research lies at the intersection of deep learning and computer vision. I hav
 
 * **Transformed Autoencoder: Pre-training with Mask-Free Encoder and Transformed Decoder**<br /> Yichen Zhou, Pan Zhou, **Chenyang Si**, Weihao Yu, Teck Khim Ng, Shuicheng YAN<br /> **NeurIPS Workshop, 2022**<br /> [[pdf]] 
 
-* **Inception Transformer**<br /> **Chenyang Si**, Weihao Yu, Pan Zhou, Yichen Zhou, Xinchao Wang, Shuicheng Yan<br /> **(NeurIPS), 2022**<br /> [[pdf](https://arxiv.org/pdf/2205.12956.pdf)] 
+* **Inception Transformer**<br /> **Chenyang Si**, Weihao Yu, Pan Zhou, Yichen Zhou, Xinchao Wang, Shuicheng Yan<br /> **(NeurIPS, Oral), 2022**<br /> [[pdf](https://arxiv.org/pdf/2205.12956.pdf)] 
 
 * **Contrast-reconstruction Representation Learning for Self-supervised Skeleton-based Action Recognition**<br /> Peng Wang, Jun Wen, **Chenyang Si**, Yuntao Qian, Liang Wang<br /> **(TIP), 2022**<br /> [[pdf](https://arxiv.org/pdf/2111.11051.pdf)] 
 
