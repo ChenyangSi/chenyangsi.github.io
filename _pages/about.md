@@ -8,14 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-Currently, I am a Research Scientist in Sea AI Lab of Sea group. 
+Currently, he is a Research Scientist in [Sea AI Lab](https://sail.sea.com/) of Sea group. 
+<!-- I will be a research fellow at [mmlab](https://www.mmlab-ntu.com/index.html), Nanyang Technological University (NTU) Singapore. -->
 
 <!-- Before that,  -->
-I completed my Ph.D. degree in 2021 at [CASIA](http://english.ia.cas.cn/), supervised by Prof. [Tieniu Tan](http://cripac.ia.ac.cn/en/EN/column/item80.shtml), co-supervised by Prof. [Liang Wang](http://cripac.ia.ac.cn/en/EN/column/item125.shtml) and Prof. [Wei Wang](http://cripac.ia.ac.cn/en/EN/column/item118.shtml). I'm a visting student from Sep, 2019 to Sep, 2020 in [Learning and Vision Lab](http://www.lv-nus.org/) at [National University of Singapore](http://www.nus.edu.sg/), working with  Prof. [Jiashi FENG](https://sites.google.com/site/jshfeng/home?authuser=0).
+He completed Ph.D. degree in 2021 at [CASIA](http://english.ia.cas.cn/), supervised by Prof. [Tieniu Tan](http://cripac.ia.ac.cn/en/EN/column/item80.shtml), co-supervised by Prof. [Liang Wang](http://cripac.ia.ac.cn/en/EN/column/item125.shtml) and Prof. [Wei Wang](http://cripac.ia.ac.cn/en/EN/column/item118.shtml). He was a visting student from Sep, 2019 to Sep, 2020 in [Learning and Vision Lab](http://www.lv-nus.org/) at [National University of Singapore](http://www.nus.edu.sg/), working with  Prof. [Jiashi FENG](https://sites.google.com/site/jshfeng/home?authuser=0). 
+<!-- I was a Research Scientist in Sea AI Lab of Sea group (2021-2022). -->
 <!-- Before that, I received my bachelor's degree from Zhengzhou University.  -->
 <!-- My research interests include computer vision and machine learning. -->
 
-My research lies at the intersection of deep learning and computer vision. I have focused on vision-based human perception that aims to design algorithms to understand and analyze human pose and action. I am also dedicated to network architecture and visual learning with limited labels, including few-shot learning, self-supervised learning and semi-supervised learning. 
+His research lies at the intersection of deep learning and computer vision. He has focused on vision-based human perception that aims to design algorithms to understand and analyze human pose and action. He is also dedicated to network architecture and visual learning with limited labels, including few-shot learning, self-supervised learning and semi-supervised learning. 
 
 **Remote cooperations are welcome (ChenYang.Si.Mail@gmail.com).** 
 
