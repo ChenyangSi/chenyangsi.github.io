@@ -25,7 +25,7 @@ His research lies at the intersection of deep learning and computer vision. He h
 
 # Contact
 
-   * **Email:** <br /> ChenYang.Si.Mail@gmail.com, sicy@sea.com, ~~chenyang.si@cripac.ia.ac.cn~~
+   * **Email:** <br /> ChenYang.Si.Mail@gmail.com, ~~sicy@sea.com~~, ~~chenyang.si@cripac.ia.ac.cn~~
 
 <!--    * **Address:** <br /> <cite>No.95, Zhongguancun East Road,<br /> Haidian District,<br /> Beijing, P.R.China<br /> 100190</cite> -->
    
