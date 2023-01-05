@@ -60,6 +60,8 @@ His research lies at the intersection of deep learning and computer vision. He h
 
 # Publications
 
+* **Metaformer baselines for vision**<br /> Weihao Yu, **Chenyang Si**, Pan Zhou, Mi Luo, Yichen Zhou, Jiashi Feng, Shuicheng Yan, Xinchao Wang<br /> **Tech report, 2022**<br /> [[pdf](https://arxiv.org/pdf/2210.13452.pdf)] 
+
 * **Federated Zero-Shot Learning with Mid-Level Semantic Knowledge Transfer**<br /> Shitong Sun, **Chenyang Si**, Shaogang Gong, Guile Wu<br /> **Tech report, 2022**<br /> [[pdf](https://arxiv.org/pdf/2208.13465.pdf)] 
 
 * **Mugs: A Multi-Granular Self-Supervised Learning Framework**<br /> Pan Zhou, Yichen Zhou, **Chenyang Si**, Weihao Yu, Teck Khim Ng, Shuicheng Yan<br /> **NeurIPS Workshop, 2022**<br /> [[pdf]] 
