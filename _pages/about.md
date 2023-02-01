@@ -36,14 +36,14 @@ His research lies at the intersection of deep learning and computer vision. He h
 
 
 
-# News@2022
+<!-- # News@2022
    * One paper is accepted by NeurIPS 2022.
    
    * One paper is accepted by TIP.
    
    * One paper is accepted by CVPR 2022.
    
-   * One paper is accepted by AAAI 2022.
+   * One paper is accepted by AAAI 2022. -->
    
 <!--    * One paper is accepted by IJCAI 2021.
    
