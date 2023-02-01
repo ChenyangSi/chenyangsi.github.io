@@ -8,8 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Currently, he is a Research Scientist in [Sea AI Lab](https://sail.sea.com/) of Sea group. 
-He will be a research fellow at [mmlab](https://www.mmlab-ntu.com/index.html), Nanyang Technological University (NTU) Singapore.
+Currently, he is a research fellow at [mmlab](https://www.mmlab-ntu.com/index.html), Nanyang Technological University (NTU) Singapore. Prior to this, he worked as a Research Scientist at the [Sea AI Lab](https://sail.sea.com/) of Sea Group.
+
+
+<!-- Before that, he was a Research Scientist in [Sea AI Lab](https://sail.sea.com/) of Sea group.  -->
+
 
 <!-- Before that,  -->
 He completed Ph.D. degree in 2021 at [CASIA](http://english.ia.cas.cn/), supervised by Prof. [Tieniu Tan](http://cripac.ia.ac.cn/en/EN/column/item80.shtml), co-supervised by Prof. [Liang Wang](http://cripac.ia.ac.cn/en/EN/column/item125.shtml) and Prof. [Wei Wang](http://cripac.ia.ac.cn/en/EN/column/item118.shtml). He was a visting student from Sep, 2019 to Sep, 2020 in [Learning and Vision Lab](http://www.lv-nus.org/) at [National University of Singapore](http://www.nus.edu.sg/), working with  Prof. [Jiashi FENG](https://sites.google.com/site/jshfeng/home?authuser=0). 
