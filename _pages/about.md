@@ -63,7 +63,7 @@ His research lies at the intersection of deep learning and computer vision. He h
 
 # Publications
 
-* **Semantic Prompt for Few-Shot Learning**<br /> Wentao Chen, **Chenyang Si**, Zhang Zhang, Liang Wang, Zilei Wang, Tieniu Tan<br /> **(CVPR), 2023**<br /> [[pdf]] 
+* **Semantic Prompt for Few-Shot Learning**<br /> Wentao Chen<sup>\*</sup>, **Chenyang Si<sup>\*</sup>**, Zhang Zhang, Liang Wang, Zilei Wang, Tieniu Tan<br /> **(CVPR), 2023**<br /> [[pdf]] 
 
 
 * **Metaformer baselines for vision**<br /> Weihao Yu, **Chenyang Si**, Pan Zhou, Mi Luo, Yichen Zhou, Jiashi Feng, Shuicheng Yan, Xinchao Wang<br /> **Tech report, 2022**<br /> [[pdf](https://arxiv.org/pdf/2210.13452.pdf)] 
