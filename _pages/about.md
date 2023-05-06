@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Currently, he is a research fellow at [mmlab](https://www.mmlab-ntu.com/index.html), Nanyang Technological University (NTU) Singapore. Prior to this, he worked as a Research Scientist at the [Sea AI Lab](https://sail.sea.com/) of Sea Group.
+Currently, he is a research fellow at [mmlab](https://www.mmlab-ntu.com/index.html), Nanyang Technological University (NTU) Singapore, working with Prof. [Ziwei Liu](https://liuziwei7.github.io/). Prior to this, he worked as a Research Scientist at the [Sea AI Lab](https://sail.sea.com/) of Sea Group.
 
 
 <!-- Before that, he was a Research Scientist in [Sea AI Lab](https://sail.sea.com/) of Sea group.  -->
@@ -34,7 +34,7 @@ His research lies at the intersection of deep learning and computer vision, incl
    * **Email:** <br /> 
      * ChenYang.Si.Mail@gmail.com
      * chenyang.si@ntu.edu.sg
-     * ~~sicy@sea.com~~, 
+     * ~~sicy@sea.com~~
      * ~~chenyang.si@cripac.ia.ac.cn~~
 
 <!--    * **Address:** <br /> <cite>No.95, Zhongguancun East Road,<br /> Haidian District,<br /> Beijing, P.R.China<br /> 100190</cite> -->
