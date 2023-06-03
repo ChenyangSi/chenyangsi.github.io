@@ -69,22 +69,22 @@ His research lies at the intersection of deep learning and computer vision, incl
 
 # Publications
 
-* **Semantic Prompt for Few-Shot Learning**<br /> Wentao Chen<sup>\*</sup>, **Chenyang Si<sup>\*</sup>**, Zhang Zhang, Liang Wang, Zilei Wang, Tieniu Tan<br /> **(CVPR), 2023**<br /> [[pdf](https://arxiv.org/pdf/2303.14123.pdf)] 
+* **Semantic Prompt for Few-Shot Learning**<br /> Wentao Chen<sup>\*</sup>, **Chenyang Si<sup>\*</sup>**, Zhang Zhang, Liang Wang, Zilei Wang, Tieniu Tan<br /> **(CVPR), 2023**<br /> [[pdf](https://arxiv.org/pdf/2303.14123.pdf)] [[code](https://github.com/WentaoChen0813/SemanticPrompt)] [[video](https://www.youtube.com/watch?v=7uem_CHedjM)]
 
 
-* **Metaformer baselines for vision**<br /> Weihao Yu, **Chenyang Si**, Pan Zhou, Mi Luo, Yichen Zhou, Jiashi Feng, Shuicheng Yan, Xinchao Wang<br /> **Tech report, 2022**<br /> [[pdf](https://arxiv.org/pdf/2210.13452.pdf)] 
+* **Metaformer baselines for vision**<br /> Weihao Yu, **Chenyang Si**, Pan Zhou, Mi Luo, Yichen Zhou, Jiashi Feng, Shuicheng Yan, Xinchao Wang<br /> **Tech report, 2022**<br /> [[pdf](https://arxiv.org/pdf/2210.13452.pdf)] [[code](https://github.com/sail-sg/metaformer)]
 
 * **Federated Zero-Shot Learning with Mid-Level Semantic Knowledge Transfer**<br /> Shitong Sun, **Chenyang Si**, Shaogang Gong, Guile Wu<br /> **Tech report, 2022**<br /> [[pdf](https://arxiv.org/pdf/2208.13465.pdf)] 
 
-* **Mugs: A Multi-Granular Self-Supervised Learning Framework**<br /> Pan Zhou, Yichen Zhou, **Chenyang Si**, Weihao Yu, Teck Khim Ng, Shuicheng Yan<br /> **NeurIPS Workshop, 2022**<br /> [[pdf](https://arxiv.org/pdf/2203.14415.pdf)] 
+* **Mugs: A Multi-Granular Self-Supervised Learning Framework**<br /> Pan Zhou, Yichen Zhou, **Chenyang Si**, Weihao Yu, Teck Khim Ng, Shuicheng Yan<br /> **NeurIPS Workshop, 2022**<br /> [[pdf](https://arxiv.org/pdf/2203.14415.pdf)] [[code](https://github.com/sail-sg/mugs)]
 
 * **Transformed Autoencoder: Pre-training with Mask-Free Encoder and Transformed Decoder**<br /> Yichen Zhou, Pan Zhou, **Chenyang Si**, Weihao Yu, Teck Khim Ng, Shuicheng YAN<br /> **NeurIPS Workshop, 2022**<br /> [[pdf]] 
 
-* **Inception Transformer**<br /> **Chenyang Si**, Weihao Yu, Pan Zhou, Yichen Zhou, Xinchao Wang, Shuicheng Yan<br /> **(NeurIPS, Oral), 2022**<br /> [[pdf](https://arxiv.org/pdf/2205.12956.pdf)] 
+* **Inception Transformer**<br /> **Chenyang Si**, Weihao Yu, Pan Zhou, Yichen Zhou, Xinchao Wang, Shuicheng Yan<br /> **(NeurIPS, Oral), 2022**<br /> [[pdf](https://arxiv.org/pdf/2205.12956.pdf)] [[code](https://github.com/sail-sg/iFormer)]
 
 * **Contrast-reconstruction Representation Learning for Self-supervised Skeleton-based Action Recognition**<br /> Peng Wang, Jun Wen, **Chenyang Si**, Yuntao Qian, Liang Wang<br /> **(TIP), 2022**<br /> [[pdf](https://arxiv.org/pdf/2111.11051.pdf)] 
 
-* **Metaformer is actually what you need for vision**<br /> Weihao Yu, Mi Luo, Pan Zhou, **Chenyang Si**, Yichen Zhou, Xinchao Wang, Jiashi Feng, Shuicheng Yan<br /> **(CVPR), 2022**<br /> [[pdf](https://arxiv.org/pdf/2111.11418.pdf)] 
+* **Metaformer is actually what you need for vision**<br /> Weihao Yu, Mi Luo, Pan Zhou, **Chenyang Si**, Yichen Zhou, Xinchao Wang, Jiashi Feng, Shuicheng Yan<br /> **(CVPR), 2022**<br /> [[pdf](https://arxiv.org/pdf/2111.11418.pdf)] [[code](https://github.com/sail-sg/poolformer)]
 
 * **Generalizable Person Re-Identification via Self-Supervised Batch Norm Test-Time Adaption**<br /> Ke Han, **Chenyang Si**, Yan Huang, Liang Wang, Tieniu Tan<br /> **(AAAI), 2022**<br /> [[pdf](https://arxiv.org/pdf/2105.11874.pdf)] 
 
