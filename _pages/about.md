@@ -25,6 +25,7 @@ His research lies at the intersection of deep learning and computer vision, incl
 
 <!-- He has focused on vision-based human perception that aims to design       algorithms to understand and analyze human pose and action. He is also dedicated to network architecture and visual learning with limited labels, including few-shot learning, self-supervised learning and semi-supervised learning.  -->
 
+***If you are seeking research interns (video generation), feel free to contact me!***
 
 ***Remote cooperations are welcome (ChenYang.Si.Mail@gmail.com).***
   
