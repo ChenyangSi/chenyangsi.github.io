@@ -70,6 +70,8 @@ His research lies at the intersection of deep learning and computer vision, incl
 
 # Publications
 
+* **FSAR: Federated Skeleton-based Action Recognition with Adaptive Topology Structure and Knowledge Distillation**<br /> Jingwen Guo, Hong Liu, Shitong Sun, Tianyu Guo, Min Zhang, **Chenyang Si**<br /> **(ICCV), 2023**<br /> [[pdf](https://arxiv.org/pdf/2306.11046.pdf)]
+
 * **Semantic Prompt for Few-Shot Learning**<br /> Wentao Chen<sup>\*</sup>, **Chenyang Si<sup>\*</sup>**, Zhang Zhang, Liang Wang, Zilei Wang, Tieniu Tan<br /> **(CVPR), 2023**<br /> [[pdf](https://arxiv.org/pdf/2303.14123.pdf)] [[code](https://github.com/WentaoChen0813/SemanticPrompt)] [[video](https://www.youtube.com/watch?v=7uem_CHedjM)]
 
 
