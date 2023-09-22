@@ -70,7 +70,7 @@ His research lies at the intersection of deep learning and computer vision, incl
 
 # Publications
 
-* **FreeU: Free Lunch in Diffusion U-Net**<br /> **Chenyang Si**, Ziqi Huang, Yuming Jiang, Ziwei Liu <br /> **Tech report, 2023**<br /> [[pdf](https://arxiv.org/pdf/2309.11497.pdf)] [[project page](https://chenyangsi.top/FreeU/)]
+* **FreeU: Free Lunch in Diffusion U-Net**<br /> **Chenyang Si**, Ziqi Huang, Yuming Jiang, Ziwei Liu <br /> **Tech report, 2023**<br /> [[pdf](https://arxiv.org/pdf/2309.11497.pdf)] [[project page](https://chenyangsi.top/FreeU/)] [[code](https://github.com/ChenyangSi/FreeU)] [[video](https://www.youtube.com/watch?v=-CZ5uWxvX30&t=2s)]
 
 * **Frequency-Enhanced Data Augmentation for Vision-and-Language Navigation**<br /> Keji He, **Chenyang Si**, Zhihe Lu, Yan Huang, Liang Wang, Xinchao Wang<br /> **NeurIPS, 2023**<br /> [pdf]
 
