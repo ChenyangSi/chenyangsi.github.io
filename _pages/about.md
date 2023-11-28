@@ -72,6 +72,8 @@ His research lies at the intersection of deep learning and computer vision, incl
 
 * **FreeU: Free Lunch in Diffusion U-Net**<br /> **Chenyang Si**, Ziqi Huang, Yuming Jiang, Ziwei Liu <br /> **Tech report, 2023**<br /> [[pdf](https://arxiv.org/pdf/2309.11497.pdf)] [[project page](https://chenyangsi.top/FreeU/)] [[code](https://github.com/ChenyangSi/FreeU)] [[video](https://www.youtube.com/watch?v=-CZ5uWxvX30&t=2s)]
 
+* **Lavie: High-quality video generation with cascaded latent diffusion models**<br /> Yaohui Wang, Xinyuan Chen, Xin Ma, Shangchen Zhou, Ziqi Huang, Yi Wang, Ceyuan Yang, Yinan He, Jiashuo Yu, Peiqing Yang, Yuwei Guo, Tianxing Wu, **Chenyang Si**, Yuming Jiang, Cunjian Chen, Chen Change Loy, Bo Dai, Dahua Lin, Yu Qiao, Ziwei Liu <br /> **Tech report, 2023**<br /> [[pdf](https://arxiv.org/pdf/2309.15103.pdf)] [[project page](https://vchitect.github.io/LaVie-project/)] [[code](https://github.com/Vchitect/LaVie)] 
+
 * **Frequency-Enhanced Data Augmentation for Vision-and-Language Navigation**<br /> Keji He, **Chenyang Si**, Zhihe Lu, Yan Huang, Liang Wang, Xinchao Wang<br /> **NeurIPS, 2023**<br /> [pdf]
 
 * **FSAR: Federated Skeleton-based Action Recognition with Adaptive Topology Structure and Knowledge Distillation**<br /> Jingwen Guo, Hong Liu, Shitong Sun, Tianyu Guo, Min Zhang, **Chenyang Si<sup>\*</sup>**<br /> **(ICCV), 2023**<br /> [[pdf](https://arxiv.org/pdf/2306.11046.pdf)]
