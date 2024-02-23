@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Currently, he is a research fellow at [mmlab](https://www.mmlab-ntu.com/index.html), Nanyang Technological University (NTU) Singapore, working with Prof. [Ziwei Liu](https://liuziwei7.github.io/). Prior to this, he worked as a Research Scientist at the [Sea AI Lab](https://sail.sea.com/) of Sea Group.
+Currently, he is a research fellow at Nanyang Technological University (NTU) Singapore, working with Prof. [Ziwei Liu](https://liuziwei7.github.io/). Prior to this, he worked as a Research Scientist at the [Sea AI Lab](https://sail.sea.com/) of Sea Group.
 
 
 <!-- Before that, he was a Research Scientist in [Sea AI Lab](https://sail.sea.com/) of Sea group.  -->
