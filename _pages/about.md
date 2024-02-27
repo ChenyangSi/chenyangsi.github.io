@@ -91,7 +91,7 @@ His research lies at the intersection of deep learning and computer vision, incl
 * **Semantic Prompt for Few-Shot Learning**<br /> Wentao Chen<sup>\*</sup>, **Chenyang Si<sup>\*</sup>**, Zhang Zhang, Liang Wang, Zilei Wang, Tieniu Tan<br /> **(CVPR), 2023**<br /> [[pdf](https://arxiv.org/pdf/2303.14123.pdf)] [[code](https://github.com/WentaoChen0813/SemanticPrompt)] [[video](https://www.youtube.com/watch?v=7uem_CHedjM)]
 
 
-* **Metaformer baselines for vision**<br /> Weihao Yu, **Chenyang Si**, Pan Zhou, Mi Luo, Yichen Zhou, Jiashi Feng, Shuicheng Yan, Xinchao Wang<br /> **Tech report, 2022**<br /> [[pdf](https://arxiv.org/pdf/2210.13452.pdf)] [[code](https://github.com/sail-sg/metaformer)]
+* **Metaformer baselines for vision**<br /> Weihao Yu, **Chenyang Si**, Pan Zhou, Mi Luo, Yichen Zhou, Jiashi Feng, Shuicheng Yan, Xinchao Wang<br /> **TPAMI, 2023**<br /> [[pdf](https://arxiv.org/pdf/2210.13452.pdf)] [[code](https://github.com/sail-sg/metaformer)]
 
 * **Federated Zero-Shot Learning with Mid-Level Semantic Knowledge Transfer**<br /> Shitong Sun, **Chenyang Si**, Shaogang Gong, Guile Wu<br /> **Tech report, 2022**<br /> [[pdf](https://arxiv.org/pdf/2208.13465.pdf)] 
 
