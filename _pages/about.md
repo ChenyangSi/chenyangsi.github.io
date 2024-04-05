@@ -70,9 +70,9 @@ His research lies at the intersection of deep learning and computer vision, incl
 
 # Publications
 
-* **FreeU: Free Lunch in Diffusion U-Net**<br /> **Chenyang Si**, Ziqi Huang, Yuming Jiang, Ziwei Liu <br /> **CVPR, 2024**<br /> [[pdf](https://arxiv.org/pdf/2309.11497.pdf)] [[project page](https://chenyangsi.top/FreeU/)] [[code](https://github.com/ChenyangSi/FreeU)] [[video](https://www.youtube.com/watch?v=-CZ5uWxvX30&t=2s)]
+* **FreeU: Free Lunch in Diffusion U-Net**<br /> **Chenyang Si**, Ziqi Huang, Yuming Jiang, Ziwei Liu <br /> **CVPR, 2024 Oral**<br /> [[pdf](https://arxiv.org/pdf/2309.11497.pdf)] [[project page](https://chenyangsi.top/FreeU/)] [[code](https://github.com/ChenyangSi/FreeU)] [[video](https://www.youtube.com/watch?v=-CZ5uWxvX30&t=2s)]
 
-* **VBench: Comprehensive Benchmark Suite for Video Generative Models**<br /> Ziqi Huang, Yinan He, Jiashuo Yu, Fan Zhang, **Chenyang Si**, Yuming Jiang, Yuanhan Zhang, Tianxing Wu, Qingyang Jin, Nattapol Chanpaisit, Yaohui Wang, Xinyuan Chen, Limin Wang, Dahua Lin, Yu Qiao, Ziwei Liu <br /> **CVPR, 2024**<br /> [[pdf](https://arxiv.org/abs/2311.17982)] [[project page](https://vchitect.github.io/VBench-project/)] [[code](https://github.com/Vchitect/VBench)] [[video](https://www.youtube.com/watch?v=7IhCC8Qqn8Y)]
+* **VBench: Comprehensive Benchmark Suite for Video Generative Models**<br /> Ziqi Huang, Yinan He, Jiashuo Yu, Fan Zhang, **Chenyang Si**, Yuming Jiang, Yuanhan Zhang, Tianxing Wu, Qingyang Jin, Nattapol Chanpaisit, Yaohui Wang, Xinyuan Chen, Limin Wang, Dahua Lin, Yu Qiao, Ziwei Liu <br /> **CVPR, 2024 Highlight**<br /> [[pdf](https://arxiv.org/abs/2311.17982)] [[project page](https://vchitect.github.io/VBench-project/)] [[code](https://github.com/Vchitect/VBench)] [[video](https://www.youtube.com/watch?v=7IhCC8Qqn8Y)]
 
 * **VideoBooth: Diffusion-based Video Generation with Image Prompts**<br /> Yuming Jiang, Tianxing Wu, Shuai Yang, **Chenyang Si**, Dahua Lin, Yu Qiao, Chen Change Loy, Ziwei Liu <br /> **CVPR, 2024**<br /> [[pdf](https://arxiv.org/abs/2312.00777)] [[project page](https://vchitect.github.io/VideoBooth-project/)] [[code](https://github.com/Vchitect/VideoBooth)] [[video](https://www.youtube.com/watch?v=10DxH1JETzI&feature=youtu.be)]
 
