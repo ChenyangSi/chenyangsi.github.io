@@ -72,6 +72,14 @@ git commit -m "Add new member: Zhang San"
 python generate_members_data.py
 ```
 
+如果你希望保存 `people/*.md` 后就自动更新，可以在单独终端运行：
+
+```bash
+python3 watch_members.py
+```
+
+它会监听 `people/*.md`、`assets/img/people/*` 和 `generate_members_data.py`，一旦有变化就自动重新生成成员数据。
+
 ## 📋 字段说明
 
 | 字段 | 必填 | 说明 | 示例 |
@@ -101,4 +109,3 @@ python generate_members_data.py
 2. 照片文件需要提前放置到 `assets/img/people/` 目录
 3. 空字段可以留空，但不要删除字段名
 4. 文档文件（`README.md`, `HOW_TO_ADD_MEMBER.md`）不会被处理
-

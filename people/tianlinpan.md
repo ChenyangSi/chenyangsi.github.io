@@ -2,6 +2,6 @@
 name: Tianlin Pan
 title: Research Assistant
 homepage: https://tianlinn.com/
-order: 1
+order: 4
 alumni: true
 ---

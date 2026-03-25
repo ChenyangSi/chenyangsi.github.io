@@ -1,11 +1,12 @@
 ---
 name: Xinquan Yue
-title: Master's Student
+title: Master's Students
 period: 2026.09~Present
 photo: ./assets/img/people/xinquanyue.jpg
-google_scholar: https://scholar.google.com/citations?hl=zh-CN&user=t1Y9whQAAAAJ 
-email: 221900005@smail.nju.edu.cn
+google_scholar: https://scholar.google.com/citations?user=t1Y9whQAAAAJ&hl=zh-CN
+email: xinquanyue@gmail.com
 github: https://github.com/windchaser170721
-order: 2
+order: 3
 ---
 
+<!--PhD Students, Master's Students, Research Assistant -->

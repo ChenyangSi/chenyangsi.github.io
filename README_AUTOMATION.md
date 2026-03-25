@@ -60,6 +60,13 @@ python generate_members_data.py
 ✅ Done!
 ```
 
+### 测试 1.5：保存后自动更新
+```bash
+python3 watch_members.py
+```
+脚本会监听 `people/*.md`、`assets/img/people/*` 和 `generate_members_data.py`。
+你保存文件后，它会自动重新生成 `assets/js/members-data.js`。
+
 ### 测试 2：验证生成的数据
 打开 `assets/js/members-data.js`，应该能看到 Ken Li 的信息
 
@@ -121,6 +128,7 @@ PRLab-Website/
 │   └── hooks/
 │       └── pre-commit              # Git Hook 脚本
 ├── generate_members_data.py        # 转换脚本
+├── watch_members.py                # 保存后自动更新监听脚本
 ├── people.html                     # 成员页面
 ├── SETUP_HOOKS.md                  # Hook 设置说明
 └── README_AUTOMATION.md           # 本文件
@@ -169,3 +177,7 @@ python --version
 
 简单、高效、不容易出错！🚀
 
+如果你希望“保存文件就自动更新”，可以单独开一个终端长期运行：
+```bash
+python3 watch_members.py
+```

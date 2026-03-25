@@ -19,6 +19,22 @@ const labMembers = {
     
     phd_students: [
 {
+            name: "Jiayi Dai",
+            title: "Ph.D. Student",
+            period: "2025.09~Present",
+            photo: "./assets/img/people/jiayidai.jpg",
+            google_scholar: "https://scholar.google.com/citations?user=P-w56TYAAAAJ&hl=zh-CN",
+            email: "jiayi.dai@smail.nju.edu.cn",
+            github: "https://github.com/polestarss"
+        },
+{
+            name: "Meikai Li",
+            title: "Ph.D. Student",
+            period: "2025.09~Present",
+            photo: "./assets/img/people/meikaili.jpg",
+            email: "meikaili@smail.nju.edu.cn"
+        },
+{
             name: "Ken Li",
             title: "Ph.D. Student",
             period: "2026.09~Present",
@@ -43,17 +59,19 @@ const labMembers = {
             period: "2026.09~Present",
             photo: "./assets/img/people/zeyulou.png",
             email: "zeyu.lou.mail@gmail.com"
-        },
-{
-            name: "Meikai Li",
-            title: "Ph.D. Student",
-            period: "2026.09~Present",
-            photo: "./assets/img/people/meikaili.jpg",
-            email: "meikaili@smail.nju.edu.cn"
         }
     ],
     
     master_students: [
+{
+            name: "Yuwen Qu",
+            title: "Master's Student",
+            period: "2025.09~Present",
+            photo: "./assets/img/people/quyuwen.png",
+            homepage: "https://pioneerqyw.github.io/",
+            email: "522025710033@smail.nju.edu.cn",
+            github: "https://github.com/PioneerQyw"
+        },
 {
             name: "Jiazhe Wei",
             title: "Master's Student",
@@ -66,33 +84,100 @@ const labMembers = {
         },
 {
             name: "Xinquan Yue",
-            title: "Master's Student",
+            title: "Master's Students",
             period: "2026.09~Present",
             photo: "./assets/img/people/xinquanyue.jpg",
-            google_scholar: "https://scholar.google.com/citations?hl=zh-CN&user=t1Y9whQAAAAJ",
-            email: "221900005@smail.nju.edu.cn",
+            google_scholar: "https://scholar.google.com/citations?user=t1Y9whQAAAAJ&hl=zh-CN",
+            email: "xinquanyue@gmail.com",
             github: "https://github.com/windchaser170721"
+        },
+{
+            name: "Wenxuan Xie",
+            title: "Master's Students",
+            period: "2026.9~Present",
+            photo: "./assets/img/people/wenxuanxie.jpg",
+            email: "aeilnglx@gmail.com",
+            github: "https://github.com/sainerd"
         }
     ],
     
     research_interns: [
 {
-            name: "Jiajun Liang",
+            name: "Zhengyao Lv",
+            title: "Research Assistants",
+            period: "2023.08~Present",
+            photo: "./assets/img/people/zhengyaolv.jpg",
+            google_scholar: "https://scholar.google.com/citations?view_op=list_works&hl=en&authuser=1&hl=en&user=FkkaUgwAAAAJ&authuser=1",
+            email: "cszy98@gmail.com",
+            github: "https://github.com/cszy98"
+        },
+{
+            name: "Ying Yang",
             title: "Research Assistant",
-            period: "2026.01~Present",
-            photo: "./assets/img/people/jiajunliang.jpg",
-            email: "grealish2821@gmail.com"
+            period: "2025.01~Present",
+            photo: "./assets/img/people/yangying.jpg",
+            homepage: "https://github.com/xbyym",
+            google_scholar: "https://scholar.google.com.hk/citations?hl=zh-CN&view_op=list_works&gmla=AEk_c1sIjAeEkuokYiluaE6FVTa2brbRE9IpAC9OUMUi96sygQgZ8S_2c9dFNKor7Ec_Xg2C5USSgimVpfeekzOMqMI&user=vPulmAwAAAAJ",
+            email: "yycfq@foxmail.com",
+            github: "https://github.com/xbyym"
         },
 {
             name: "Yucheng Liao",
             title: "Research Assistant",
             period: "2026.03~Present",
             photo: "./assets/img/people/yuchengliao.jpg",
+            google_scholar: "https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&user=SXYwG5YAAAAJ&gmla=AEk_c1v4GqZrToHzIdNg333qnx-jlPmJ_ifbfYTKUVL4qLTuhbJNjQwrtJ3Q7Br8d1bPL_wS5BuvWrjnI9KkldFztMzW8YQchLkaSscZrDpsyMTroY0pIDDe",
             email: "cheng_2528@outlook.com"
+        },
+{
+            name: "Chenpu Yuan",
+            title: "Research Assistant",
+            period: "2025.04~Present",
+            photo: "./assets/img/people/yuanchenpu.png",
+            homepage: "https://cauphenuny.github.io/",
+            google_scholar: "https://scholar.google.com/citations?user=R0PsUVUAAAAJ&hl=zh-CN",
+            email: "yuanchenpu23@mails.ucas.ac.cn",
+            github: "https://github.com/cauphenuny"
+        },
+{
+            name: "Jiajun Liang",
+            title: "Research Assistant",
+            period: "2026.01~Present",
+            photo: "./assets/img/people/jiajunliang.jpg",
+            google_scholar: "https://scholar.google.com/citations?user=M-YwlBAAAAAJ&hl=zh-CN",
+            email: "grealish2821@gmail.com"
+        },
+{
+            name: "Wenbo Hu",
+            title: "Intern",
+            period: "2026.01~Present",
+            photo: "./assets/img/people/wenbohu.jpg",
+            email: "tet@tettet.org",
+            github: "https://github.com/Tetetetetetetet"
+        },
+{
+            name: "tailai chen",
+            title: "Research Assistant",
+            period: "2026.09~Present",
+            photo: "./assets/img/people/tailaichen.jpg",
+            google_scholar: "https://scholar.google.com/citations?hl=zh-CN&user=5l_V-GIAAAAJ&sortby=pubdate&view_op=list_worksgmla=AEk_c1sl04kfMp6IvODPgayI2OUQz-b08pFSLv7GovrwPpWyLfcnWLb6Uv1qelDG6Ots4lhe0EaaNIecchvRcHBRkTAU4wB8H03BP-HKwmBeCyau6g-y-DnbmCYpbfmvn7TTl7GU-A",
+            email: "tailai_chen2022@163.com"
         }
     ],
     
     alumni: [
+{
+            name: "Jianxiong Gao",
+            title: "Research Assistant",
+            homepage: "https://jianxgao.github.io/",
+            alumni: "true"
+        },
+{
+            name: "Xin Gao",
+            title: "Research Assistant",
+            homepage: "https://scholar.google.com/citations?hl=zh-CN&view_op=list_works&gmla=ABOlHix2PfAdIiGbuVb-L0xLpBXekWfSNlXF9ZInpMlDCg5UzEjJECjjLtiC0XjS4T5MsNGH_Vyd5SaxDGvPsKSV5zM&user=1UKUQUEAAAAJ",
+            alumni: "true"
+        },
 {
             name: "Tianlin Pan",
             title: "Research Assistant",
