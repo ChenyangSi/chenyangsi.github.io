@@ -1163,10 +1163,20 @@
 
         .footer-grid {
             display: grid;
-            grid-template-columns: 2fr 1fr 1fr;
-            gap: var(--space-xl);
+            grid-template-columns: repeat(4, minmax(0, 1fr));
+            column-gap: clamp(32px, 4vw, 56px);
+            row-gap: var(--space-xl);
             margin-bottom: var(--space-xl);
         }
+
+        .footer-map { grid-column: 1; }
+        .footer-brand { grid-column: 2; }
+        .footer-links {
+            grid-column: 3;
+            justify-self: center;
+            text-align: left;
+        }
+        .footer-contact { grid-column: 4; }
 
         .footer-section h5 {
             font-family: var(--font-display);
@@ -1184,6 +1194,20 @@
             color: rgba(255,255,255,0.45);
             line-height: 1.8;
             font-style: normal;
+        }
+
+        .visitor-map-wrap {
+            text-align: left;
+            width: 180px;
+            min-height: 180px;
+            display: flex;
+            align-items: flex-start;
+            justify-content: flex-start;
+        }
+
+        .visitor-map-wrap .widgetContainer {
+            width: 180px;
+            min-height: 180px;
         }
 
         .footer-section a {
@@ -1287,7 +1311,7 @@
             .research-featured-visual { display: none; }
             .openings-grid  { grid-template-columns: repeat(2, 1fr); }
             .services-row { flex-direction: column; gap: 2px; }
-            .footer-grid    { grid-template-columns: 1fr 1fr; }
+            .footer-grid    { grid-template-columns: repeat(2, minmax(0, 1fr)); }
         }
 
         @media (max-width: 768px) {
@@ -1697,7 +1721,14 @@
 <footer id="footer">
     <div class="footer-inner">
         <div class="footer-grid">
-            <div class="footer-section">
+            <div class="footer-section footer-map">
+                <div class="visitor-map-wrap">
+                    <div class="widgetContainer" style="display:inline-block; width:180px; min-height:180px;">
+                        <script type="text/javascript" id="clstr_globe" src="https://clustrmaps.com/globe.js?d=oArr-3iWscM_3fvIaVF2hQ1NVPBgA-lGIdWtvTDtyIM"></script>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-section footer-brand">
                 <h5>PRLab · Nanjing University</h5>
                 <address>
                     Pattern &amp; Recognition Laboratory<br>
@@ -1707,7 +1738,7 @@
                     Suzhou, Jiangsu Province, China
                 </address>
             </div>
-            <div class="footer-section">
+            <div class="footer-section footer-links">
                 <h5>Quick Links</h5>
                 <a href="#about">About</a>
                 <a href="#research">Research</a>
@@ -1716,7 +1747,7 @@
                 <a href="./publications.html">Publications</a>
                 <a href="#openings">Join Us</a>
             </div>
-            <div class="footer-section">
+            <div class="footer-section footer-contact">
                 <h5>Contact</h5>
                 <p>
                     chenyang.si@nju.edu.cn<br>
@@ -1724,13 +1755,6 @@
                 </p>
             </div>
         </div>
-        <!-- ClustrMaps globe removed — was causing clickable blank area bug
-        <div class="visitor-map-wrap" style="text-align:center; padding: 24px 0 32px; border-top: 1px solid rgba(255,255,255,0.08);">
-            <div class="widgetContainer" style="display:inline-block;">
-                <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=oArr-3iWscM_3fvIaVF2hQ1NVPBgA-lGIdWtvTDtyIM"></script>
-            </div>
-        </div>
-        -->
         <div class="footer-bottom">
             <p>Copyright &copy; <span id="year"></span> PRLab, Nanjing University. All rights reserved.</p>
         </div>
