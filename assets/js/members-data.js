@@ -133,16 +133,6 @@ const labMembers = {
             email: "cheng_2528@outlook.com"
         },
 {
-            name: "Chenpu Yuan",
-            title: "Research Assistant",
-            period: "2025.04~Present",
-            photo: "./assets/img/people/yuanchenpu.png",
-            homepage: "https://cauphenuny.github.io/",
-            google_scholar: "https://scholar.google.com/citations?user=R0PsUVUAAAAJ&hl=zh-CN",
-            email: "yuanchenpu23@mails.ucas.ac.cn",
-            github: "https://github.com/cauphenuny"
-        },
-{
             name: "Jiajun Liang",
             title: "Research Assistant",
             period: "2026.01~Present",
@@ -157,14 +147,6 @@ const labMembers = {
             photo: "./assets/img/people/wenbohu.jpg",
             email: "tet@tettet.org",
             github: "https://github.com/Tetetetetetetet"
-        },
-{
-            name: "tailai chen",
-            title: "Research Assistant",
-            period: "2026.09~Present",
-            photo: "./assets/img/people/tailaichen.jpg",
-            google_scholar: "https://scholar.google.com/citations?hl=zh-CN&user=5l_V-GIAAAAJ&sortby=pubdate&view_op=list_worksgmla=AEk_c1sl04kfMp6IvODPgayI2OUQz-b08pFSLv7GovrwPpWyLfcnWLb6Uv1qelDG6Ots4lhe0EaaNIecchvRcHBRkTAU4wB8H03BP-HKwmBeCyau6g-y-DnbmCYpbfmvn7TTl7GU-A",
-            email: "tailai_chen2022@163.com"
         }
     ],
     
