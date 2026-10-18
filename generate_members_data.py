@@ -114,8 +114,8 @@ const labMembers = {
         title: "Associate Professor",
         affiliation: "School of Intelligence Science and Technology, Nanjing University",
         period: "2024 ~ Present",
-        photo: "./assets/img/photography.jpg",
-        bio: "Prof. Chenyang Si is a Tenure-Track Associate Professor at the School of Intelligence Science and Technology, Nanjing University. His research interests span visual understanding and generation, including fundamental architectures for computer vision, video understanding, generative models, video and image generation, as well as acceleration and optimization of generative models.",
+        photo: "./assets/img/photography.jpeg",
+        bio: "Prof. Chenyang Si is a Tenure-Track Associate Professor at the School of Intelligence Science and Technology, Nanjing University.",
         homepage: "https://chenyangsi.top/",
         google_scholar: "https://scholar.google.com/citations?user=XdahAuoAAAAJ",
         email: "chenyang.si@nju.edu.cn",
@@ -156,4 +156,3 @@ if __name__ == '__main__':
     print("🔄 Generating members-data.js from markdown files...\n")
     generate_members_data_js()
     print("\n✅ Done!")
-

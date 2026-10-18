@@ -1421,6 +1421,19 @@
             color: rgba(255,255,255,0.5);
             margin-top: 8px;
         }
+
+        .publications-note {
+            color: var(--text-body);
+            font-size: var(--text-base);
+            margin-bottom: var(--space-xl);
+        }
+
+        .publications-note a {
+            color: var(--accent);
+            font-weight: 600;
+            text-decoration: underline;
+            text-underline-offset: 3px;
+        }
     </style>
 </head>
 <body>
@@ -1462,6 +1475,7 @@
         <div class="section-title-bar">
             <h2 class="section-title">Publications</h2>
         </div>
+        <p class="publications-note">For the latest papers, please visit <a href="https://scholar.google.com/citations?user=XdahAuoAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar <i class="bi bi-arrow-up-right" aria-hidden="true"></i></a>.</p>
         <div id="publications-container" class="pub-groups">
             <div class="pub-loading">Loading publications from markdown files...</div>
         </div>

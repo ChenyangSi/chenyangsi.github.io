@@ -418,9 +418,28 @@
         }
 
         .recruit-text span {
+            display: block;
             font-size: var(--text-lg);
             color: rgba(255,255,255,0.6);
             line-height: 1.6;
+        }
+
+        .recruit-text .recruit-collaborators {
+            margin-top: 8px;
+            font-size: var(--text-sm);
+        }
+
+        .recruit-collaborators a {
+            color: #FEFCFF;
+            text-decoration: underline;
+            text-underline-offset: 3px;
+        }
+
+        .recruit-actions {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+            flex-shrink: 0;
         }
 
         .recruit-btn {
@@ -1047,9 +1066,29 @@
             margin-bottom: var(--space-xl);
         }
 
-        .openings-intro a {
-            color: var(--accent);
-            font-weight: 600;
+        .openings-apply {
+            display: block;
+            margin-top: 16px;
+        }
+
+        .openings-intro .openings-form-btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            margin-top: 12px;
+            padding: 12px 24px;
+            background: var(--accent);
+            color: #fff;
+            border-radius: var(--radius-sm);
+            font-size: var(--text-lg);
+            font-weight: 700;
+            text-decoration: none;
+        }
+
+        .openings-form-btn:hover,
+        .openings-form-btn:focus-visible {
+            background: var(--text-primary);
+            color: #fff;
         }
 
         .openings-grid {
@@ -1360,6 +1399,7 @@
             .openings-cta { flex-direction: column; text-align: center; padding: 32px 24px; }
 
             .recruit-banner { flex-direction: column; gap: 16px; }
+            .recruit-actions { width: 100%; }
             .recruit-btn { width: 100%; justify-content: center; }
 
             .news-type-icon { width: 32px; height: 32px; font-size: var(--text-sm); border-radius: 8px; }
@@ -1446,7 +1486,7 @@
             </div>
         </div>
         <div class="hero-image">
-            <img src="./assets/img/photography.jpg" alt="Chenyang Si">
+            <img src="./assets/img/photography.jpeg" alt="Chenyang Si">
         </div>
     </div>
 </section>
@@ -1467,22 +1507,29 @@
             <a href="http://cripac.ia.ac.cn/en/EN/column/item125.shtml" target="_blank">Liang Wang</a> and Prof.
             <a href="http://cripac.ia.ac.cn/en/EN/column/item118.shtml" target="_blank">Wei Wang</a>.
         </p>
-        <p class="bio-text">
-            His research interests span visual understanding and generation, including fundamental architectures for computer vision,
-            video understanding, generative models, video and image generation, as well as acceleration and optimization of generative models.
-        </p>
 
         <div class="recruit-banner">
             <div class="recruit-text">
                 <strong>We are actively recruiting!</strong>
-                <span>Openings for 2027 Ph.D. / Master's students and undergraduate / graduate Research Assistants.</span>
+                <span>Openings for 2027 and 2028 Ph.D. / Master's students</span>
+                <span>Research Interns for Embodied AI, Agent, World Models</span>
+                <span>Also hiring talented research scientists, engineers, and interns for an embodied AI startup.</span>
+                <span class="recruit-collaborators">Collaborators:
+                    <a href="https://liuziwei7.github.io/" target="_blank" rel="noopener noreferrer">Ziwei Liu</a>,
+                    <a href="https://jingkangyang.com/" target="_blank" rel="noopener noreferrer">Jingkang Yang</a>,
+                    <a href="https://scholar.google.com/citations?user=OQQzJb4AAAAJ&amp;hl=en" target="_blank" rel="noopener noreferrer">Shiqi Yang</a>,
+                    <a href="https://yukangcao.github.io/" target="_blank" rel="noopener noreferrer">Yukang Cao</a>
+                </span>
             </div>
-            <a href="#openings" class="recruit-btn">Join Us <i class="bi bi-arrow-right"></i></a>
+            <div class="recruit-actions">
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSeduxEZrdDmqqTmVkCnWzr0cmOHg2EOwNhyxZeh3Lm7qH9Djg/viewform?usp=dialog" class="recruit-btn" target="_blank" rel="noopener noreferrer">Google Form <i class="bi bi-arrow-up-right" aria-hidden="true"></i></a>
+                <a href="#openings" class="recruit-btn">Join Us <i class="bi bi-arrow-right"></i></a>
+            </div>
         </div>
 
         <div class="research-interest-block">
             <h3 class="ri-title">Research Interests</h3>
-            <p class="ri-inline">Video Generation · Diffusion Models · Visual Understanding · World Models · Embodied AI · Agent · Efficient Generative Models · Evaluation Benchmarks</p>
+            <p class="ri-inline">Embodied AI · World Models · Agent · Generation Models · Visual Understanding · Efficient Generative Models · Evaluation Benchmarks</p>
         </div>
 
         <h3 class="services-heading">Academic Services</h3>
@@ -1529,10 +1576,18 @@
             <div class="research-card">
                 <h5><i class="bi bi-robot"></i> Agent</h5>
                 <p>We study the core mechanisms that enable autonomous agents to operate in open-ended environments. Our research focuses on agent memory architectures for long-horizon reasoning, agentic reinforcement learning that combines LLM-based planning with RL-driven optimization, agent sandboxes for safe and reproducible evaluation, and agent-driven social and world simulation to model complex multi-agent dynamics at scale.</p>
+                <div class="research-works">
+                    <a href="https://vibegame.tettet.org/" class="research-work-tag" target="_blank" rel="noopener noreferrer">VibeGame</a>
+                    <a href="https://github.com/kiyotakali/Miru" class="research-work-tag" target="_blank" rel="noopener noreferrer">Miru</a>
+                </div>
             </div>
             <div class="research-card">
                 <h5><i class="bi bi-cpu"></i> Embodied AI</h5>
                 <p>We explore embodied intelligence paradigms where agents learn through physical interaction with dynamic environments. Our work focuses on integrating world knowledge from large-scale generative models into embodied systems for manipulation, navigation, and planning in real-world settings.</p>
+                <div class="research-works">
+                    <a href="https://loule0-0.github.io/KnowBody/" class="research-work-tag" target="_blank" rel="noopener noreferrer">KnowBody</a>
+                    <a href="https://arxiv.org/pdf/2609.26313" class="research-work-tag" target="_blank" rel="noopener noreferrer">SafeLoop</a>
+                </div>
             </div>
             <!-- Row 3 -->
             <div class="research-card">
@@ -1551,7 +1606,7 @@
                 <div class="research-works">
                     <a href="https://github.com/sail-sg/metaformer" class="research-work-tag" target="_blank">MetaFormer</a>
                     <a href="https://github.com/sail-sg/iFormer" class="research-work-tag" target="_blank">iFormer</a>
-                    <a href="https://github.com/WentaoChen0813/SemanticPrompt" class="research-work-tag" target="_blank">Semantic Prompt</a>
+                    <a href="https://aurora-lm-project.github.io/" class="research-work-tag" target="_blank" rel="noopener noreferrer">AURORA-LM</a>
                 </div>
             </div>
             <!-- Row 4 -->
@@ -1680,17 +1735,15 @@
         </div>
         <p class="openings-intro">
             We are actively seeking highly motivated students and researchers to join PRLab at Nanjing University.
-            Our lab focuses on cutting-edge research in visual understanding and generation, with a particular emphasis on
-            video generation and diffusion models. If you are interested in applying, please refer to this
-            <a href="https://zhuanlan.zhihu.com/p/29424201230" target="_blank" style="font-weight:700;">Zhihu Post</a>
-            and fill out the
-            <a href="https://docs.google.com/forms/d/e/1FAIpQLSeduxEZrdDmqqTmVkCnWzr0cmOHg2EOwNhyxZeh3Lm7qH9Djg/viewform?usp=dialog" target="_blank" style="font-weight:700;">Google Form</a>.
+            <span class="openings-apply">Also hiring talented research scientists, engineers, and interns for an embodied AI startup.</span>
+            <span class="openings-apply">If you are interested in applying, please fill out the Google Form.</span>
+            <a class="openings-form-btn" href="https://docs.google.com/forms/d/e/1FAIpQLSeduxEZrdDmqqTmVkCnWzr0cmOHg2EOwNhyxZeh3Lm7qH9Djg/viewform?usp=dialog" target="_blank" rel="noopener noreferrer">Fill out the Google Form <i class="bi bi-arrow-up-right" aria-hidden="true"></i></a>
         </p>
         <div class="openings-grid">
             <div class="opening-card">
                 <h5><i class="bi bi-mortarboard-fill"></i> Ph.D. Students</h5>
                 <ul>
-                    <li>Recruiting for 2027 Fall</li>
+                    <li>Recruiting for Fall 2027 and Fall 2028</li>
                     <li>Strong CS / AI background</li>
                     <li>Solid Python and PyTorch skills</li>
                     <li>Passion for computer vision research</li>
@@ -1700,7 +1753,7 @@
             <div class="opening-card">
                 <h5><i class="bi bi-journal-bookmark-fill"></i> Master's Students</h5>
                 <ul>
-                    <li>Recruiting for 2027 Fall</li>
+                    <li>Recruiting for Fall 2027 and Fall 2028</li>
                     <li>Undergraduate in CS or related fields</li>
                     <li>Strong math foundation</li>
                     <li>Deep learning framework experience</li>
@@ -1710,7 +1763,7 @@
             <div class="opening-card">
                 <h5><i class="bi bi-person-workspace"></i> Research Interns</h5>
                 <ul>
-                    <li>Undergraduate / visiting students</li>
+                    <li>Undergraduate / Master / Ph.D.</li>
                     <li>At least 3-6 months commitment</li>
                     <li>Prior research experience preferred</li>
                     <li>Remote or on-site both welcome</li>

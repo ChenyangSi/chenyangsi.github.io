@@ -9,8 +9,8 @@ const labMembers = {
         title: "Associate Professor",
         affiliation: "School of Intelligence Science and Technology, Nanjing University",
         period: "2024 ~ Present",
-        photo: "./assets/img/photography.jpg",
-        bio: "Prof. Chenyang Si is a Tenure-Track Associate Professor at the School of Intelligence Science and Technology, Nanjing University. His research interests span visual understanding and generation, including fundamental architectures for computer vision, video understanding, generative models, video and image generation, as well as acceleration and optimization of generative models.",
+        photo: "./assets/img/photography.jpeg",
+        bio: "Prof. Chenyang Si is a Tenure-Track Associate Professor at the School of Intelligence Science and Technology, Nanjing University.",
         homepage: "https://chenyangsi.top/",
         google_scholar: "https://scholar.google.com/citations?user=XdahAuoAAAAJ",
         email: "chenyang.si@nju.edu.cn",
@@ -93,14 +93,6 @@ const labMembers = {
             google_scholar: "https://scholar.google.com/citations?user=t1Y9whQAAAAJ&hl=zh-CN",
             email: "xinquanyue@gmail.com",
             github: "https://github.com/windchaser170721"
-        },
-{
-            name: "Wenxuan Xie",
-            title: "Master's Students",
-            period: "2026.9~Present",
-            photo: "./assets/img/people/wenxuanxie.jpg",
-            email: "aeilnglx@gmail.com",
-            github: "https://github.com/sainerd"
         }
     ],
     
@@ -113,24 +105,6 @@ const labMembers = {
             google_scholar: "https://scholar.google.com/citations?view_op=list_works&hl=en&authuser=1&hl=en&user=FkkaUgwAAAAJ&authuser=1",
             email: "cszy98@gmail.com",
             github: "https://github.com/cszy98"
-        },
-{
-            name: "Ying Yang",
-            title: "Research Assistant",
-            period: "2025.01~Present",
-            photo: "./assets/img/people/yangying.jpg",
-            homepage: "https://github.com/xbyym",
-            google_scholar: "https://scholar.google.com.hk/citations?hl=zh-CN&view_op=list_works&gmla=AEk_c1sIjAeEkuokYiluaE6FVTa2brbRE9IpAC9OUMUi96sygQgZ8S_2c9dFNKor7Ec_Xg2C5USSgimVpfeekzOMqMI&user=vPulmAwAAAAJ",
-            email: "yycfq@foxmail.com",
-            github: "https://github.com/xbyym"
-        },
-{
-            name: "Yucheng Liao",
-            title: "Research Assistant",
-            period: "2026.03~Present",
-            photo: "./assets/img/people/yuchengliao.jpg",
-            google_scholar: "https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&user=SXYwG5YAAAAJ&gmla=AEk_c1v4GqZrToHzIdNg333qnx-jlPmJ_ifbfYTKUVL4qLTuhbJNjQwrtJ3Q7Br8d1bPL_wS5BuvWrjnI9KkldFztMzW8YQchLkaSscZrDpsyMTroY0pIDDe",
-            email: "cheng_2528@outlook.com"
         },
 {
             name: "Jiajun Liang",
@@ -147,6 +121,20 @@ const labMembers = {
             photo: "./assets/img/people/wenbohu.jpg",
             email: "tet@tettet.org",
             github: "https://github.com/Tetetetetetetet"
+        },
+{
+            name: "Weicheng Duan",
+            title: "Research Assistant",
+            period: "2026.10~Present",
+            photo: "./assets/img/people/weichengDuan.png",
+            email: "dwc240327@gmail.com"
+        },
+{
+            name: "Hao Wang",
+            title: "Research Assistant",
+            period: "2026.10~Present",
+            photo: "./assets/img/people/haowang.jpg",
+            email: "wanghao_apply2025@163.com"
         }
     ],
     

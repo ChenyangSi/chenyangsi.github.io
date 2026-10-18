@@ -754,12 +754,21 @@
             box-shadow: var(--shadow-sm);
         }
 
+        .pi-photo {
+            flex-shrink: 0;
+            width: 200px;
+            max-width: 100%;
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            border-radius: var(--radius);
+            overflow: hidden;
+        }
+
         .pi-photo img {
-            width: 120px;
-            height: 120px;
-            border-radius: 50%;
+            display: block;
+            width: 100%;
+            aspect-ratio: 1 / 1;
             object-fit: cover;
-            border: 3px solid var(--accent-light);
         }
 
         .pi-info { flex: 1; }
@@ -1448,15 +1457,16 @@
         <!-- PI Card -->
         <div class="pi-card">
             <div class="pi-photo">
-                <img src="./assets/img/photography.jpg" alt="Chenyang Si">
+                <img src="./assets/img/photography.jpeg" alt="Chenyang Si">
             </div>
             <div class="pi-info">
                 <h3>Chenyang Si</h3>
                 <p class="pi-role">Associate Professor</p>
                 <p class="pi-bio">
-                    Prof. Chenyang Si is a Tenure-Track Associate Professor with <a href="https://prlab-nju.com/nju/" target="_blank" rel="noopener noreferrer">PRLab</a> at the <a href="https://is.nju.edu.cn/" target="_blank" rel="noopener noreferrer">School of Intelligence Science and Technology</a>, Nanjing University (Suzhou Campus). He was a Research Fellow at NTU and a Research Scientist at Sea AI Lab. He received his Ph.D. from CASIA in 2021. His research interests span visual understanding and generation, including video generation, diffusion models, and generative model acceleration.
+                    Prof. Chenyang Si is a Tenure-Track Associate Professor with <a href="https://prlab-nju.com/nju/" target="_blank" rel="noopener noreferrer">PRLab</a> at the <a href="https://is.nju.edu.cn/" target="_blank" rel="noopener noreferrer">School of Intelligence Science and Technology</a>, Nanjing University (Suzhou Campus). He was a Research Fellow at NTU and a Research Scientist at Sea AI Lab. He received his Ph.D. from CASIA in 2021.
                 </p>
                 <div class="pi-tags">
+                    <span class="pi-tag">Embodied AI</span>
                     <span class="pi-tag">Video Generation</span>
                     <span class="pi-tag">Diffusion Models</span>
                     <span class="pi-tag">Visual Understanding</span>
