@@ -1,6 +1,7 @@
 ---
 name: Wenbo Hu
 title: Intern
+status: Incoming Ph.D.
 period: 2026.01~Present
 photo: ./assets/img/people/wenbohu.jpg
 homepage:

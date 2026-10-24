@@ -19,6 +19,9 @@ function createMemberCard(member) {
     }
 
     var extra = '';
+    if (member.status) {
+        extra += '<p class="member-status">' + member.status + '</p>';
+    }
     if (member.co_supervised) {
         extra += '<p class="member-co-supervised">' + member.co_supervised + '</p>';
     }

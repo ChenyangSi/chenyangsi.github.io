@@ -50,7 +50,7 @@ def format_member_object(data, indent=8):
     lines = ['{']
     
     # Add fields in order
-    fields = ['name', 'title', 'period', 'co_supervised', 'intern', 'affiliation',
+    fields = ['name', 'title', 'status', 'period', 'co_supervised', 'intern', 'affiliation',
               'photo', 'homepage', 'google_scholar', 'email', 'github', 'alumni']
     
     for field in fields:

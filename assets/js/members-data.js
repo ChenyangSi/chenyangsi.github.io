@@ -109,6 +109,7 @@ const labMembers = {
 {
             name: "Jiajun Liang",
             title: "Research Assistant",
+            status: "Incoming Ph.D.",
             period: "2026.01~Present",
             photo: "./assets/img/people/jiajunliang.jpg",
             google_scholar: "https://scholar.google.com/citations?user=M-YwlBAAAAAJ&hl=zh-CN",
@@ -117,6 +118,7 @@ const labMembers = {
 {
             name: "Wenbo Hu",
             title: "Intern",
+            status: "Incoming Ph.D.",
             period: "2026.01~Present",
             photo: "./assets/img/people/wenbohu.jpg",
             email: "tet@tettet.org",
@@ -125,6 +127,7 @@ const labMembers = {
 {
             name: "Weicheng Duan",
             title: "Research Assistant",
+            status: "Incoming Ph.D.",
             period: "2026.10~Present",
             photo: "./assets/img/people/weichengDuan.png",
             email: "dwc240327@gmail.com"
@@ -132,6 +135,7 @@ const labMembers = {
 {
             name: "Hao Wang",
             title: "Research Assistant",
+            status: "Incoming Ph.D.",
             period: "2026.10~Present",
             photo: "./assets/img/people/haowang.jpg",
             email: "wanghao_apply2025@163.com"
